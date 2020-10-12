@@ -1,0 +1,4 @@
+﻿  Campbell_Assignment5.cpp
+C:\Users\Emily Newell\source\repos\Campell Assignment 5\Campell Assignment 5\Campbell_Assignment5.cpp(34,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emily Newell\source\repos\Campell Assignment 5\Campell Assignment 5\Campbell_Assignment5.cpp(35,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Campell Assignment 5.vcxproj -> C:\Users\Emily Newell\source\repos\Campell Assignment 5\Debug\Campell Assignment 5.exe
